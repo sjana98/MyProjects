@@ -19,6 +19,11 @@
     --bg-white:#fff;
     --bg-dark-color:  #03262c;
     --transparent-dark-color: #03262cd6;
+    --facebook-color: #1877F2;
+    --twitter-color: #1DA1F2;
+    --youtube-color: #CD201F;
+    --insta-color:  #E4405F;
+    --linkedin-color:  #0e76a8;
     /* Text Colors */
     --primary-text:#061738;
     --secondary-color: #60cd12;
@@ -523,17 +528,35 @@ section{
     border: 0.125rem solid var(--text-gray);
     color: var(--text-gray);
     text-align: center;
-    font-size: 1.2rem;
+    font-size: 1.3rem;
     border-radius: 100%;
     -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);;
     transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
 .footer_wrapper .social-network a:hover{
-    background-color: var(--secondary-color);
-    border-color: var(--secondary-color);
     color: var(--text-white);
     box-shadow: 0 0.625rem .9375rem 0 rgb(0 0 0 / 10%);
     transform: translateY(-0.1875rem);
+}
+.footer_wrapper .social-network .fb:hover{
+    background-color:var(--facebook-color);
+    border-color: var(--facebook-color);
+}
+.footer_wrapper .social-network .ins:hover{
+    background-color:var(--insta-color);
+    border-color: var(--insta-color);
+}
+.footer_wrapper .social-network .tt:hover{
+    background-color:var(--twitter-color);
+    border-color: var(--twitter-color);
+}
+.footer_wrapper .social-network .yt:hover{
+    background-color:var(--youtube-color);
+    border-color: var(--youtube-color);
+}
+.footer_wrapper .social-network .in:hover{
+    background-color:var(--linkedin-color);
+    border-color: var(--linkedin-color);
 }
 .footer_wrapper .form-control{
     font-size: 2rem;
