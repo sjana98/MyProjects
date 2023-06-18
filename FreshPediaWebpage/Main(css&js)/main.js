@@ -16,14 +16,9 @@ navBar.forEach(function (e) {
     })
 });
 // nav close by clicking outside of navbar elements
-document.body.addEventListener('click', function (event) {  // Add an event listener for the click event on the document body
-    let isNavbarClicked = event.target.closest('.navbar');  // Check if the clicked element is within the navbar
-    if (!isNavbarClicked) {                                 // If the clicked element is not within the navbar, close the collapse
-        let navbarToggler = document.querySelector('.navbar-toggler');
-        let navbarContent = document.querySelector('.navbar-collapse');
-      
-        if (navbarContent.classList.contains('show')) {
-            navbarToggler.click();
-        }
+document.addEventListener('click', function(event) {                              // Add an event listener to the document
+    let navBar = document.querySelector('.navbar-collapse');                      // Get the navbar element
+    if (!navBar.contains(event.target) && navBar.classList.contains('show')) {    // Check if the click event occurred outside of the navbar
+      navBar.classList.remove('show');                                            // Close the navbar by removing the 'show' class
     }
 });
