@@ -5,3 +5,4 @@
 - I’m currently learning react js.
 - I’m looking to a job in future.
 - My gmail - sjana8901@gmail.com
+- FreshPedia hosted page - https://freshpedia.000webhostapp.com/index.html
