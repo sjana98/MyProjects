@@ -1,4 +1,4 @@
-# MyProjects
+# My webpage projects
 - Hi, I’m Suman Jana.
 - I’m from Kolkata, west Bengal, India.
 - I’m interested in frontend web development.
