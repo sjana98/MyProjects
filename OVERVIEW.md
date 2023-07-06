@@ -15,7 +15,13 @@
 - Includes multiple pages with awesome lookes and design.
 - Compatible in all devices smoothly.
 - FreshPedia_Webpage hosted link - https://freshpedia.000webhostapp.com/index.html
-
+# Responsive Clothing Landing Page (Shopdot)
+- This page was construct by using Html, CSS, Javascript.
+- Includes dark & light mode.
+- Modern adstract design.
+- Animation while scrolling.
+- Compatible in all devices with pleasent user interface.
+- Ecommerce_Fachion_Webpage hosted link - http://efashion.lovestoblog.com/
 
 
 
