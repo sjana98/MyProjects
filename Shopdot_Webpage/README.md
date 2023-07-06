@@ -1,5 +1,5 @@
 # Responsive Clothing Landing Page
-- This page was construct by Html, CSS, Javascript.
+- This page was construct by using Html, CSS, Javascript.
 - Includes dark & light mode.
 - Modern adstract design.
 - Animation while scrolling.
