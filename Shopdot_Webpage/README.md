@@ -4,4 +4,4 @@
 - Modern adstract design.
 - Animation while scrolling.
 - Compatible in all devices with pleasent user interface.
-- Shopdot_Webpage hosted link - http://efashion.lovestoblog.com/
+- Shopdot_Webpage hosted link - https://sjana98.github.io/Shopdot_Webpage/
