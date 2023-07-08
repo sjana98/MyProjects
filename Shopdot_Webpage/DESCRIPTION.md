@@ -1,6 +1,6 @@
 # Responsive Clothing Landing Page
 - Responsive ecommerce clothing landing webpage.
-- This page was construct by Html, CSS, Javascript.
+- I have use Html, CSS, Javascript to make this page.
 - Includes dark & light mode.
 - Modern adstract design.
 - Animation while scrolling.
