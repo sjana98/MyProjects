@@ -24,13 +24,7 @@
 - Animation while scrolling.
 - Compatible in all devices with pleasent user interface.
 - Shopdot_Webpage hosted link - https://sjana98.github.io/Shopdot_Webpage/
-# Business_Webpage
-- Responsive business promoting webpage. 
-- I have used React JS to make this webpage.
-- Includes couples of visual applying animations.
-- Modern adstract design.
-- Compatible in all devices with pleasent user interface.
-- Business_Webpage hosted link - 
+
 
 
 
