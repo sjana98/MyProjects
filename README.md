@@ -30,7 +30,7 @@
 - Includes couples of visual applying animations.
 - Modern adstract design.
 - Compatible in all devices with pleasent user interface.
-- Shopdot_Webpage hosted link - 
+- Business_Webpage hosted link - 
 
 
 
