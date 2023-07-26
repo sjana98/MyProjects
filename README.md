@@ -1,11 +1,4 @@
-# Me
-- Hi, I’m Suman Jana.
-- I’m from Kolkata, west Bengal, India.
-- I’m interested in frontend web development.
-- I’m currently learning react js.
-- I’m looking to a job in future.
-- Gmail - sjana8901@gmail.com
-# Webpage projects:-
+# Webpage projects in this repo:-
 # Amazon_Home_Page_Clone_Webpage
 - I have used HTML & CSS to make this webpage.
 - It is exact home page clone of amazon.com
