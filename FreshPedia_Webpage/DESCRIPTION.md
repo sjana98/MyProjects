@@ -3,4 +3,4 @@
 - I have used Bootstrap, HTML, CSS & Javascript to make this page.
 - Includes multiple pages with awesome lookes and design.
 - Compatible in all devices smoothly.
-- FreshPedia_Webpage hosted link - https://sjana98.github.io/FreshPedia_Webpage/
+- FreshPedia_Webpage deployment link - https://sjana98.github.io/FreshPedia_Webpage/
